@@ -1,0 +1,6 @@
+framework module Pods_ConstraintsLayout {
+  umbrella header "Pods-ConstraintsLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
